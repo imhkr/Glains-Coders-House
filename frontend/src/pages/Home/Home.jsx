@@ -27,7 +27,9 @@ const Home = () => {
           <Button onClick={startRegister} text="Let's Go" />
         </div>
         <div className={styles.signinWrapper}>
-          <span className={styles.hasInvite}>Have an invite text?</span>
+          <span className={styles.hasInvite}>
+            Welcome ,Thank You for visiting here.
+          </span>
         </div>
       </Card>
     </div>
